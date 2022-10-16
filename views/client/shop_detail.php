@@ -6,8 +6,9 @@
             <h3 class="title text-dark"></h3>
             <hr>
             <div class="detail_border">
-            
+           
 
+            
 
 
               <div class="row">
